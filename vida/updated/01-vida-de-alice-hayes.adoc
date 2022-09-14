@@ -787,9 +787,14 @@ tuvo un buen servicio para el honor de Dios esa noche,
 como también en muchas otras ocasiones por estos lugares,
 donde hubo gran apertura entre el pueblo y muchos fueron convencidos.
 
+[.offset]
 El siguiente testimonio es una memoria viva y fresca de este siervo fiel del Señor,
 que brota de mi corazón y que quiero dejar para la posteridad.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 El Testimonio de Alice Hayes respecto a Francis Stamper
 
 Francis Stamper fue un hombre entregado y fiel a Dios en su época;
@@ -837,7 +842,10 @@ debo decir: Todo proviene del Señor y Él es digno de hacer lo que le plazca.
 Todo lo que Él hace es bueno, ya sea que dé o quite.
 ¡Bendito sea Su nombre por siempre!
 
-Alice Hayes.
+[.signed-section-signature]
+Alice Hayes
+
+--
 
 Después de que el Señor me probó con varios tipos de ejercicios,
 se complació en probarme aún más con la persecución por los diezmos,
